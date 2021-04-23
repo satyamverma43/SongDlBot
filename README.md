@@ -8,10 +8,9 @@
 
 ### Credits:
 
-[Help SInhalen](https://t.me/HelpSinhalen)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 ### Developers:
 
-[@JenulRanthisa](https://t.me/JenulRanthisa)
+[@Satyam](https://t.me/thesatyamxyz)
