@@ -70,12 +70,12 @@ async def song(client, message):
     #if args.startswith("/help"):
         #return ""    
     status = await message.reply(
-             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @JenulRanthisa 🇱🇰</b>",
+             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @thesatyamxyz 🇮🇳</b>",
              disable_web_page_preview=True,
                         reply_markup=InlineKeyboardMarkup(
                             [[
                                     InlineKeyboardButton(
-                                        "Developer", url="https://t.me/JenulRanthisa")
+                                        "Developer", url="https://t.me/thesatyamxyz")
                                 ]]
                         ),
                parse_mode="html",
