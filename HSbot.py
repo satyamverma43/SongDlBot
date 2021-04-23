@@ -117,12 +117,12 @@ async def song(client, message):
         await message.reply("<b>Enter a song name❗\n\nExample: `/s guleba`</b>")
         return ""
     status = await message.reply(
-             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @JenulRanthisa 🇱🇰</b>",
+             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @SatyamDev 🇮🇳</b>",
              disable_web_page_preview=True,
                         reply_markup=InlineKeyboardMarkup(
                             [[
                                     InlineKeyboardButton(
-                                        "Developer", url="https://t.me/JenulRanthisa")
+                                        "Developer", url="https://t.me/thesatyamxyz")
                                 ]]
                         ),
                parse_mode="html",
@@ -160,7 +160,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>Hey There, I'm a Song Downloader Bot
 
-Made by @JenulRanthisa 🇱🇰
+Made by @SatyamDev 🇱🇰
 
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
@@ -168,7 +168,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "Help", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Channel", url="https://t.me/JenulRanthisa")
+                                            "Channel", url="https://t.me/thesatyamxyz")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -221,7 +221,7 @@ print(
     """
 Bot Started!
 
-Join @HelpSinhalen
+Join @falcon_and_the_winter_soilder_0
 """
 )
 
